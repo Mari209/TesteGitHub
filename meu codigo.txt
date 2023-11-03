@@ -1,6 +1,10 @@
 Olá, estou estudando Git e  GitHub
 <<<<<<< HEAD
+<<<<<<< HEAD
 Vou enviar para outra branch
 =======
 Teste teste branch
 >>>>>>> staging
+=======
+Essa uma nova linha, agora vou atualizar meu arquivo
+>>>>>>> 613d21ca75344f7102ddade672e9eacd02c1ed47

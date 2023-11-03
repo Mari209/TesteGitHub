@@ -1,2 +1,6 @@
 Olá, estou estudando Git e  GitHub
+<<<<<<< HEAD
 Vou enviar para outra branch
+=======
+Teste teste branch
+>>>>>>> staging
